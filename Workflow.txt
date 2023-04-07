@@ -1,0 +1,30 @@
+Project’s Objective and Goals
+
+The objective of this project is to develop a simulator based on a real 1-D hydraulic slider.
+After preparing a suitable simulator based on the mathematical model of the actuator, then
+the students should check the simulator output for different type of inputs.
+At the end, the students should provide a linear PID controller for the systems and they
+should tune the controller for different inputs to find the best control values. Based on above
+research work students should prepare a report by mentioning all the steps of the work and
+adding their discussion and conclusion to the work.
+
+
+* Create constants .m file
+
+* Design system model in simulink
+
+	* Create simulink file.
+
+* Test the system model with: Step, Sine, Pulse and Ramp inputs
+
+* Add a PID controller to the Simulink model and close the loop by feeding back the
+position
+
+* Tune the PID controller for every input in a way that the model output is the best
+possible
+
+* Record all your results, graphs and models
+
+* Write your report
+
+	* Create report file from template
