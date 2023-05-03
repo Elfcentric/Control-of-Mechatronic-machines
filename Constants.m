@@ -27,8 +27,8 @@ zeeta = 0.5588; % Damping ratio (No)
 
 omegan = 481.3; % Natural angular frequency (rad/s)
 
-A1 = 8.04e-4; % Area (m2)
-A2 = 4.24e-4; % Area (m2)
+A1 = 8.04e-4; % Piston Area (m2)
+A2 = 4.24e-4; % Rod side Area (m2)
 
 m = 210; % Mass (kg)
 
