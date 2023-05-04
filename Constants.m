@@ -44,4 +44,5 @@ sigma1 = 848.3; % Flexibility and damping coefficient of friction force (Ns/m)
 kv = 87.74; % Viscous friction coefficient (Ns/m)
 Fc = 74.81; % Coulomb friction level (N)
 Fs = 2921; % Static friction force level (N)
+vs = 0.1624; % Stribeck velocity (m/s)
 
